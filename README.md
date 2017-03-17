@@ -30,3 +30,4 @@
 * IBM Blockchain 的 learn-chaincode 中文翻译 https://github.com/gymgle/learn-chaincode/blob/master/README_zh-cn.md
 * Hyperledger fabric 源码分析 https://github.com/yeasy/hyperledger_code_fabric
 * IBM Blockchain 101：开发人员快速入门指南 https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
+* 2017 IBM 开源技术微讲堂 —— 区块链和 Hyperledger 系列 https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/opentech-blockchain
