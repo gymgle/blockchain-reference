@@ -24,8 +24,8 @@
 * Ubuntu 14.04 中基于 Docker 部署 Hyperledger https://github.com/imac-cloud/blockchain-tutorial/blob/master/hyperledger/hyperledger-docker.md
 
 ### 链码开发
-* 基于 Hyperledger 的 fabric，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
-* IBM Blockchain 的 learn-chaincode 中文翻译 https://github.com/gymgle/learn-chaincode/blob/master/README_zh-cn.md
+* 基于 Hyperledger fabric 0.6 版本，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
+* Hyperledger fabric 0.6 的 learn-chaincode 中文翻译 https://github.com/gymgle/learn-chaincode/blob/master/README_zh-cn.md
 * Hyperledger fabric 源码分析 https://github.com/yeasy/hyperledger_code_fabric
 * IBM Blockchain 101：开发人员快速入门指南 https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
 * 面向开发人员的区块链链代码深入研究：使用 Go 编写智能合约（基于 Fabric 0.6） https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/index.html
