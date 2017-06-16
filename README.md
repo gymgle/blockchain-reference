@@ -23,7 +23,9 @@
 * Fabric 最新在线文档 https://hyperledger-fabric.readthedocs.io/
 
 ### Fabric 部署
-* Ubuntu 14.04 中基于 Docker 部署 Hyperledger https://github.com/imac-cloud/blockchain-tutorial/blob/master/hyperledger/hyperledger-docker.md
+* Ubuntu 14.04 中基于 Docker 部署 Fabric 0.6 https://github.com/imac-cloud/blockchain-tutorial/blob/master/hyperledger/hyperledger-docker.md
+* Ubuntu 中部署 Fabric 0.6 多节点视频演示 https://g2ex.github.io/2017/06/16/fabric-0.6-demo-vedio/
+* Ubuntu 中部署并测试 Fabric 1.0 Beta http://www.cnblogs.com/studyzy/p/6973334.html
 
 ### 链码开发
 * 基于 Hyperledger fabric 0.6 版本，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
