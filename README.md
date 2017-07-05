@@ -11,6 +11,10 @@
 ### 白皮书与协议规范
 * 比特币白皮书中文翻译 http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
 * 以太坊白皮书中文翻译 https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6
+* [工信部中国区块链技术和应用发展白皮书](assets/中国区块链技术和应用发展白皮书（2016）)
+* [腾讯区块连方案白皮书](assets/腾讯区块连方案白皮书（2017）)
+* [布比区块链产品白皮书](assets/布比区块链产品白皮书1.0（2016）)
+* [Corda技术白皮书](assets/Corda技术白皮书（2016）)
 * Solidity 官方文档中文版 https://github.com/twq0076262/solidity-zh
 
 ### 相关工具
