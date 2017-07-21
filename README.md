@@ -41,7 +41,8 @@
 
 ### 学习资源
 * 2017 IBM 开源技术微讲堂 —— 区块链和 Hyperledger 系列 https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/opentech-blockchain
-* [PBFT 算法简介](assets/PBFT.pdf)
+* [PBFT 算法简介 PPT](assets/PBFT.pdf)
+* [比特币与区块链技术分享 PPT](比特币与区块链技术分享_201707.pdf)
 
 ### 相关工具
 * IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
