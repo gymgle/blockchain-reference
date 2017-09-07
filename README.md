@@ -16,7 +16,6 @@
 * [BCOS 平台白皮书](assets/BCOS_Whitepaper.pdf)
 * [布比区块链产品白皮书](assets/布比区块链产品白皮书1.0（2016）.pdf)
 * [Corda 技术白皮书](assets/Corda技术白皮书（2016）.pdf)
-* Solidity 官方文档中文版 https://github.com/twq0076262/solidity-zh
 
 ### 相关工具
 * 比特币地址、私钥等 Demo 演示页面 https://gobittest.appspot.com/
@@ -48,3 +47,16 @@
 ### 相关工具
 * IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
 * IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
+
+
+## 以太坊
+
+### 安装部署
+* 以太坊安装部署 https://yeasy.gitbooks.io/blockchain_guide/ethereum/install.html
+
+### 智能合约
+* Solidity 官方文档中文版 https://github.com/twq0076262/solidity-zh
+* 以太坊智能合约编程教程 http://ethfans.org/posts/101-noob-intro
+
+### 相关工具
+* 以太坊网络状态查看 https://ethstats.net/
