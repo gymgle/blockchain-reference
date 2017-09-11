@@ -44,7 +44,7 @@
 * [PBFT 算法简介 PPT](assets/PBFT.pdf)
 * [比特币与区块链技术分享 PPT](assets/比特币与区块链技术分享_201707.pdf)
 
-### 相关工具
+### 网站资源
 * IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
 * IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
 
@@ -53,10 +53,13 @@
 
 ### 安装部署
 * 以太坊安装部署 https://yeasy.gitbooks.io/blockchain_guide/ethereum/install.html
+* 私有链搭建操作指南 https://my.oschina.net/u/2349981/blog/865256
 
 ### 智能合约
 * Solidity 官方文档中文版 https://github.com/twq0076262/solidity-zh
 * 以太坊智能合约编程教程 http://ethfans.org/posts/101-noob-intro
 
-### 相关工具
+### 网站资源
 * 以太坊网络状态查看 https://ethstats.net/
+* 网络历史的统计信息 https://ethernodes.org
+* 以太坊上运行的 DApp 的信息 https://dapps.ethercasts.com/
