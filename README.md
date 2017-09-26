@@ -20,6 +20,11 @@
 ### 相关工具
 * 比特币地址、私钥等 Demo 演示页面 https://gobittest.appspot.com/
 
+### 学习资源
+* [金链盟-区块链平台调研与分析（2017）](assets/金链盟-区块链平台调研与分析（2017）.pdf)
+
+----------
+
 ## Hyperledger Fabric
 
 ### 协议规范
@@ -48,6 +53,7 @@
 * IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
 * IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
 
+----------
 
 ## 以太坊
 
