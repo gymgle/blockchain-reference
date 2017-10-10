@@ -11,6 +11,8 @@
 ### 白皮书与协议规范
 * 比特币白皮书中文翻译 http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
 * 以太坊白皮书中文翻译 https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6
+* 超级账本白皮书[英文] https://docs.google.com/document/d/1Z4M_qwILLRehPbVRUsJ3OF8Iir-gqS-ZYe7W-LE9gnE/edit?usp=sharing
+* 超级账本白皮书[中文翻译] http://www.8btc.com/hyperledger-whitepaper
 * [工信部中国区块链技术和应用发展白皮书](assets/中国区块链技术和应用发展白皮书（2016）.pdf)
 * [腾讯区块连方案白皮书](assets/腾讯区块连方案白皮书（2017）.pdf)
 * [BCOS 平台白皮书](assets/BCOS_Whitepaper.pdf)
