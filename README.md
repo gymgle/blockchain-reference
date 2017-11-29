@@ -74,6 +74,9 @@
 * 以太坊智能合约开发指南 https://www.gitbook.com/book/luren5/dapp-develop/details
 * Build Your First Ethereum Smart Contract with Solidity — Tutorial https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
 
+### 学习资源
+* [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
+
 ### 网站资源
 * 以太坊网络状态查看 https://ethstats.net/
 * 网络历史的统计信息 https://ethernodes.org
