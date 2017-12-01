@@ -75,7 +75,8 @@
 * Build Your First Ethereum Smart Contract with Solidity — Tutorial https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
 
 ### 学习资源
-* [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
+* 一张图了解以太坊区块链机制 [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
+* Ethereum Frontier Guide https://www.gitbook.com/book/ethereum/frontier-guide
 
 ### 网站资源
 * 以太坊网络状态查看 https://ethstats.net/
