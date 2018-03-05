@@ -69,7 +69,7 @@
 
 ### 智能合约
 * Solidity 官方文档 https://solidity.readthedocs.io
-* Solidity 官方文档中文版 https://github.com/twq0076262/solidity-zh
+* Solidity 官方文档中文版 https://solidity-cn.readthedocs.io/zh/latest/
 * Solidity 编程语言学习 http://www.tryblockchain.org/
 * Solidity 学习入门 http://me.tryblockchain.org/Solidity%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97.html
 * Web3.js API 1.0 官方文档 https://web3js.readthedocs.io/en/1.0/
