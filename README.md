@@ -28,6 +28,9 @@
 * RAFT 算法演示 http://thesecretlivesofdata.com/raft/
 * [金链盟-区块链平台调研与分析（2017）](assets/金链盟-区块链平台调研与分析（2017）.pdf)
 
+### 区块链安全
+* 区块链安全技术文章收录 https://blockchain-sec.com
+
 ----------
 
 ## Hyperledger Fabric
