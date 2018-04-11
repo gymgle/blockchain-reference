@@ -87,6 +87,7 @@
 ### 学习资源
 * 一张图了解以太坊区块链机制 [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
 * Ethereum Frontier Guide https://www.gitbook.com/book/ethereum/frontier-guide
+* 加密僵尸（类似加密猫）：一步步构建自己的 DApps 向导教程 https://cryptozombies.io
 
 ### 网站资源
 * 以太坊网络状态查看 https://ethstats.net/
