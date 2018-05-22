@@ -20,6 +20,7 @@
 * [布比区块链产品白皮书](assets/布比区块链产品白皮书1.0（2016）.pdf)
 * [Corda 技术白皮书](assets/Corda技术白皮书（2016）.pdf)
 * 中钞可信登记开放平台 BROP 白皮书 http://www.zcblockchain.com/images/whitepaper.pdf
+* [2018年中国区块链产业白皮书](assets/2018年中国区块链产业白皮书.pdf)
 
 ### 相关工具
 * 比特币地址、私钥等 Demo 演示页面 https://gobittest.appspot.com/
