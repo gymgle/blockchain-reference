@@ -43,7 +43,7 @@
 * 私有链搭建操作指南 https://my.oschina.net/u/2349981/blog/865256
 * 以太坊-私有链搭建初步实践 https://github.com/xiaoping378/blog/blob/master/posts/%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E7%A7%81%E6%9C%89%E9%93%BE%E6%90%AD%E5%BB%BA%E5%88%9D%E6%AD%A5%E5%AE%9E%E8%B7%B5.md
 
-### 智能合约
+### 智能合约教程
 * Solidity 官方文档 https://solidity.readthedocs.io
 * Solidity 官方文档中文版 https://solidity-cn.readthedocs.io/zh/latest/
 * Solidity 编程语言学习 http://www.tryblockchain.org/
@@ -54,8 +54,9 @@
 * 以太坊智能合约开发指南 https://www.gitbook.com/book/luren5/dapp-develop/details
 * Build Your First Ethereum Smart Contract with Solidity — Tutorial https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
 
-### Token
-* Create your own crypto-currency https://www.ethereum.org/token
+### 智能合约示例
+* 以太坊官网 ERC20 代币合约 https://www.ethereum.org/token
+* 基于 OpenZeppelin 编写安全的合约 https://github.com/OpenZeppelin/openzeppelin-solidity
 
 ### 学习资源
 * 一张图了解以太坊区块链机制 [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
