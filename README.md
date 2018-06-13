@@ -70,6 +70,7 @@
 * 加密僵尸（类似加密猫）：一步步构建自己的 DApps 向导教程 https://cryptozombies.io
 
 ### 网站资源
+* 以太坊区块链浏览器 https://etherscan.io/
 * 以太坊网络状态查看 https://ethstats.net/
 * 网络历史的统计信息 https://ethernodes.org
 * 以太坊上运行的 DApp 的信息 https://dapps.ethercasts.com/
