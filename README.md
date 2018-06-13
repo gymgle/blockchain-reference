@@ -58,9 +58,10 @@
 
 ### 以太坊 API 接口文档
 * JSON RPC API https://github.com/ethereum/wiki/wiki/JSON-RPC
-* JSON RPC management API https://github.com/ethereum/wiki/wiki/JSON-RPC
-* Web3.js API 1.0 官方文档 https://web3js.readthedocs.io/en/1.0/
-* Web3.js API 中文文档 http://web3.tryblockchain.org/index.html
+* JSON RPC management API https://github.com/ethereum/go-ethereum/wiki/Management-APIs
+* Web3.js API https://github.com/ethereum/wiki/wiki/JavaScript-API
+* Web3.js API 官方文档 https://docs.readthedocs.io
+* Web3.js API 中文文档翻译 http://web3.tryblockchain.org/index.html
 * Web3j 文档 - for Java & Android https://web3j.readthedocs.io
 
 ### 学习资源
