@@ -48,8 +48,6 @@
 * Solidity 官方文档中文版 https://solidity-cn.readthedocs.io/zh/latest/
 * Solidity 编程语言学习 http://www.tryblockchain.org/
 * Solidity 学习入门 http://me.tryblockchain.org/Solidity%E5%85%A5%E9%97%A8%E7%B3%BB%E5%88%97.html
-* Web3.js API 1.0 官方文档 https://web3js.readthedocs.io/en/1.0/
-* Web3.js API 中文文档 http://web3.tryblockchain.org/index.html
 * 以太坊智能合约编程教程 http://ethfans.org/posts/101-noob-intro
 * 以太坊智能合约开发指南 https://www.gitbook.com/book/luren5/dapp-develop/details
 * Build Your First Ethereum Smart Contract with Solidity — Tutorial https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
@@ -57,6 +55,13 @@
 ### 智能合约示例
 * 以太坊官网 ERC20 代币合约 https://www.ethereum.org/token
 * 基于 OpenZeppelin 编写安全的合约 https://github.com/OpenZeppelin/openzeppelin-solidity
+
+### 以太坊 API 接口文档
+* JSON RPC API https://github.com/ethereum/wiki/wiki/JSON-RPC
+* JSON RPC management API https://github.com/ethereum/wiki/wiki/JSON-RPC
+* Web3.js API 1.0 官方文档 https://web3js.readthedocs.io/en/1.0/
+* Web3.js API 中文文档 http://web3.tryblockchain.org/index.html
+* Web3j 文档 - for Java & Android https://web3j.readthedocs.io
 
 ### 学习资源
 * 一张图了解以太坊区块链机制 [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
