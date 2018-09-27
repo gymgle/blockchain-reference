@@ -17,6 +17,7 @@
 * [工信部中国区块链技术和应用发展白皮书](assets/中国区块链技术和应用发展白皮书（2016）.pdf)
 * [腾讯区块连方案白皮书](assets/腾讯区块连方案白皮书（2017）.pdf)
 * [BCOS 平台白皮书](assets/BCOS_Whitepaper.pdf)
+* [百度区块链白皮书](assets/百度区块链白皮书V1.0_201809.pdf)
 * FISCO BCOS 金链盟平台白皮书 https://github.com/FISCO-BCOS/whitepaper
 * [布比区块链产品白皮书](assets/布比区块链产品白皮书1.0（2016）.pdf)
 * [Corda 技术白皮书](assets/Corda技术白皮书（2016）.pdf)
