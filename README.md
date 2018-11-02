@@ -58,6 +58,9 @@
 * 以太坊官网 ERC20 代币合约 https://www.ethereum.org/token
 * 基于 OpenZeppelin 编写安全的合约 https://github.com/OpenZeppelin/openzeppelin-solidity
 
+### 以太坊开发
+* [Ethereum Development with Go —— 用 go 作为服务端开发与区块链交互的必备手册](assets/ethereum-development-with-go.pdf)
+
 ### 以太坊 API 接口文档
 * JSON RPC API https://github.com/ethereum/wiki/wiki/JSON-RPC
 * JSON RPC management API https://github.com/ethereum/go-ethereum/wiki/Management-APIs
