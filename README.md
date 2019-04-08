@@ -61,6 +61,7 @@
 
 ### 以太坊开发
 * [Ethereum Development with Go —— 用 go 作为服务端开发与区块链交互的必备手册](assets/ethereum-development-with-go.pdf)
+* Ethereum Development with Go 中英文在线阅读 https://goethereumbook.org/
 
 ### 以太坊 API 接口文档
 * JSON RPC API https://github.com/ethereum/wiki/wiki/JSON-RPC
