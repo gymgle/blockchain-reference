@@ -29,6 +29,7 @@
 * 比特币地址、私钥等 Demo 演示页面 https://gobittest.appspot.com/
 
 ### 学习资源
+* 技术博客：深入浅出区块链 https://learnblockchain.cn/
 * RAFT 算法演示 http://thesecretlivesofdata.com/raft/
 * [金链盟-区块链平台调研与分析（2017）](assets/金链盟-区块链平台调研与分析（2017）.pdf)
 
