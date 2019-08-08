@@ -15,6 +15,7 @@
 * 以太坊黄皮书 https://ethereum.github.io/yellowpaper/paper.pdf
 * 超级账本白皮书[英文] https://docs.google.com/document/d/1Z4M_qwILLRehPbVRUsJ3OF8Iir-gqS-ZYe7W-LE9gnE/edit?usp=sharing
 * 超级账本白皮书[中文翻译] http://www.8btc.com/hyperledger-whitepaper
+* Libra 白皮书[中文] https://libra.org/zh-CN/white-paper/?noredirect=1
 * [工信部中国区块链技术和应用发展白皮书](assets/中国区块链技术和应用发展白皮书（2016）.pdf)
 * [腾讯区块连方案白皮书](assets/腾讯区块连方案白皮书（2017）.pdf)
 * [BCOS 平台白皮书](assets/BCOS_Whitepaper.pdf)
