@@ -4,7 +4,7 @@
 
 ### 电子书
 * 《区块链技术指南》 https://github.com/yeasy/blockchain_guide
-* 《精通比特币》 http://book.8btc.com/master_bitcoin
+* 《精通比特币》 https://github.com/tianmingyun/MasterBitcoin2CN
 * 《精通比特币》的英文原版 *Mastering Bitcoin* 主页 https://www.bitcoinbook.info/ Github 地址 https://github.com/bitcoinbook/bitcoinbook
 * 《精通比特币第二版》 https://github.com/tianmingyun/MasterBitcoin2CN 或 https://www.8btc.com/book/281955
 * 《精通以太坊》中文翻译版本 https://github.com/inoutcode/ethereum_book
