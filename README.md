@@ -4,19 +4,19 @@
 
 ### 电子书
 * 《区块链技术指南》 https://github.com/yeasy/blockchain_guide
-* 《精通比特币》 https://github.com/tianmingyun/MasterBitcoin2CN
-* 《精通比特币》的英文原版 *Mastering Bitcoin* 主页 https://www.bitcoinbook.info/ Github 地址 https://github.com/bitcoinbook/bitcoinbook
 * 《精通比特币第二版》 https://github.com/tianmingyun/MasterBitcoin2CN 或 https://www.8btc.com/book/281955
+* 《精通比特币》的英文原版 *Mastering Bitcoin* https://github.com/bitcoinbook/bitcoinbook
 * 《精通以太坊》中文翻译版本 https://github.com/inoutcode/ethereum_book
-* 巴比特汇总的电子书 http://book.8btc.com/
+* 巴比特汇总的电子书 https://www.8btc.com/book
 
 ### 白皮书与协议规范
-* 比特币白皮书中文翻译 http://www.8btc.com/wiki/bitcoin-a-peer-to-peer-electronic-cash-system
-* 以太坊白皮书中文翻译 https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6
+* 比特币白皮书 https://bitcoin.org/en/bitcoin-paper
+* 比特币白皮书[中文] https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf
+* 以太坊白皮书[中文] https://github.com/ethereum/wiki/wiki/%5B%E4%B8%AD%E6%96%87%5D-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E7%99%BD%E7%9A%AE%E4%B9%A6
 * 以太坊黄皮书 https://ethereum.github.io/yellowpaper/paper.pdf
 * 超级账本白皮书[英文] https://docs.google.com/document/d/1Z4M_qwILLRehPbVRUsJ3OF8Iir-gqS-ZYe7W-LE9gnE/edit?usp=sharing
 * 超级账本白皮书[中文翻译] http://www.8btc.com/hyperledger-whitepaper
-* Libra 白皮书[中文] https://libra.org/zh-CN/white-paper/?noredirect=1
+* Libra 白皮书 https://www.diem.com/en-us/white-paper/
 * [工信部中国区块链技术和应用发展白皮书](assets/中国区块链技术和应用发展白皮书（2016）.pdf)
 * [腾讯区块连方案白皮书](assets/腾讯区块连方案白皮书（2017）.pdf)
 * [BCOS 平台白皮书](assets/BCOS_Whitepaper.pdf)
