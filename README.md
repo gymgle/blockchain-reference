@@ -45,9 +45,10 @@
 ## 以太坊
 
 ### 安装部署
-* 以太坊安装部署 https://yeasy.gitbooks.io/blockchain_guide/ethereum/install.html
+* 一个关于以太坊的知识集合 https://github.com/bekatom/awesome-ethereum
+* 以太坊安装部署 https://yeasy.gitbook.io/blockchain_guide/07_ethereum/install
 * 私有链搭建操作指南 https://my.oschina.net/u/2349981/blog/865256
-* 以太坊-私有链搭建初步实践 https://github.com/xiaoping378/blog/blob/master/posts/%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E7%A7%81%E6%9C%89%E9%93%BE%E6%90%AD%E5%BB%BA%E5%88%9D%E6%AD%A5%E5%AE%9E%E8%B7%B5.md
+* 以太坊-私有链搭建初步实践 https://xiaoping378.github.io/docs/5-blockchain/%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E7%A7%81%E6%9C%89%E9%93%BE%E6%90%AD%E5%BB%BA%E5%88%9D%E6%AD%A5%E5%AE%9E%E8%B7%B5/
 
 ### 智能合约教程
 * Solidity 官方文档 https://solidity.readthedocs.io
@@ -59,24 +60,22 @@
 * Build Your First Ethereum Smart Contract with Solidity — Tutorial https://codeburst.io/build-your-first-ethereum-smart-contract-with-solidity-tutorial-94171d6b1c4b
 
 ### 智能合约示例
-* 以太坊官网 ERC20 代币合约 https://www.ethereum.org/token
+* 以太坊官网代币标准 ERC20/ERC721/ERC777 https://ethereum.org/zh/developers/docs/standards/tokens/
 * 基于 OpenZeppelin 编写安全的合约 https://github.com/OpenZeppelin/openzeppelin-solidity
 
 ### 以太坊开发
+* 以太坊开发者资源 https://ethereum.org/zh/developers/
 * [Ethereum Development with Go —— 用 go 作为服务端开发与区块链交互的必备手册](assets/ethereum-development-with-go.pdf)
 * Ethereum Development with Go 中英文在线阅读 https://goethereumbook.org/
 
 ### 以太坊 API 接口文档
 * JSON RPC API https://github.com/ethereum/wiki/wiki/JSON-RPC
-* JSON RPC management API https://github.com/ethereum/go-ethereum/wiki/Management-APIs
-* Web3.js API https://github.com/ethereum/wiki/wiki/JavaScript-API
-* Web3.js API 官方文档 https://docs.readthedocs.io
-* Web3.js API 中文文档翻译 http://web3.tryblockchain.org/index.html
-* Web3j 文档 - for Java & Android https://web3j.readthedocs.io
+* JSON RPC management API https://geth.ethereum.org/docs/rpc/server
+* Web3.js API https://web3js.readthedocs.io/
+* Web3.js API 中文文档 https://web3.tryblockchain.org/
 
 ### 学习资源
 * 一张图了解以太坊区块链机制 [Ethereum Blockchain Mechanism - An interpretation of the Ethereum Project Yellow Paper](assets/Ethereum%20Blockchain%20Mechanism%20-%20An%20interpretation%20of%20the%20Ethereum%20Project%20Yellow%20Paper.jpg)
-* Ethereum Frontier Guide https://www.gitbook.com/book/ethereum/frontier-guide
 * 加密僵尸（类似加密猫）：一步步构建自己的 DApps 向导教程 https://cryptozombies.io
 
 ### 网站资源
@@ -103,14 +102,11 @@
 * 基于 Hyperledger fabric 0.6 版本，如何编写基本链码，如何在 IBM Bluemix 上部署和交互 https://github.com/IBM-Blockchain/learn-chaincode
 * Hyperledger fabric 0.6 的 learn-chaincode 中文翻译 https://github.com/gymgle/learn-chaincode/blob/master/README_zh-cn.md
 * Hyperledger fabric 源码分析 https://github.com/yeasy/hyperledger_code_fabric
-* IBM Blockchain 101：开发人员快速入门指南 https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
-* 面向开发人员的区块链链代码深入研究：使用 Go 编写智能合约（基于 Fabric 0.6） https://www.ibm.com/developerworks/cn/cloud/library/cl-ibm-blockchain-chaincode-development-using-golang/index.html
+* IBM Blockchain 101：开发人员快速入门指南 https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/
 
 ### 学习资源
-* 2017 IBM 开源技术微讲堂 —— 区块链和 Hyperledger 系列 https://www.ibm.com/developerworks/community/blogs/3302cc3b-074e-44da-90b1-5055f1dc0d9c/entry/opentech-blockchain
 * [PBFT 算法简介 PPT](assets/PBFT.pdf)
 * [比特币与区块链技术分享 PPT](assets/比特币与区块链技术分享_201707.pdf)
 
 ### 网站资源
-* IBM 超能云（SuperVessel）区块链服务的公测地址，创建自己的区块链演示 http://crl.ptopenlab.com:8800/bc
 * IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
