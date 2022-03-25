@@ -39,6 +39,7 @@
 * 区块链安全技术文章收录 https://blockchain-sec.com
 * 以太坊智能合约 —— 最佳安全开发指南 https://github.com/ConsenSys/smart-contract-best-practices/blob/master/README-zh.md
 * 以太坊 Solidity 合约 call 函数簇滥用导致的安全风险 https://mp.weixin.qq.com/s/YItZsy4_M64LbUHPo-4xEQ
+* [区块链安全能力测评与分析报告（2021年）](assets/区块链安全能力测评与分析报告（2021年）.pdf)
 
 ----------
 
