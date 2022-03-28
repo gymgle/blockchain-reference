@@ -63,6 +63,7 @@
 ### 智能合约示例
 * 以太坊官网代币标准 ERC20/ERC721/ERC777 https://ethereum.org/zh/developers/docs/standards/tokens/
 * 基于 OpenZeppelin 编写安全的合约 https://github.com/OpenZeppelin/openzeppelin-solidity
+* Solidity 智能合约库 https://github.com/WeBankBlockchain/SmartDev-Contract
 
 ### 以太坊开发
 * 以太坊开发者资源 https://ethereum.org/zh/developers/
