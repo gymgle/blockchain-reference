@@ -4,6 +4,7 @@
 (require "transaction.rkt")
 (require "utils.rkt")
 (require "wallet.rkt")
+(require "smart-contracts.rkt")
 
 (struct blockchain
   (blocks utxo)
@@ -36,16 +37,17 @@
                    (lambda (t) (equal? w (transaction-io-owner t))) utxo)])
     (foldr + 0 (map (lambda (t) (transaction-io-value t)) my-ts))))
 
-(define (send-money-blockchain b from to value)
+(define (send-money-blockchain b from to value c)
   (letrec ([my-ts
-            (filter (lambda (t) (equal? from (transaction-io-owner t)))
-                    (blockchain-utxo b))]
+            (filter
+             (lambda (t) (equal? from (transaction-io-owner t)))
+             (blockchain-utxo b))]
            [t (make-transaction from to value my-ts)])
     (if (transaction? t)
         (let ([processed-transaction (process-transaction t)])
           (if (and
                (>= (balance-wallet-blockchain b from) value)
-               (valid-transaction? processed-transaction))
+               (valid-transaction-contract? processed-transaction c))
               (add-transaction-to-blockchain b processed-transaction)
               b))
         (add-transaction-to-blockchain b '()))))

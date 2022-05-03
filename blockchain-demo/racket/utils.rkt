@@ -19,4 +19,8 @@
     (close-input-port in)
     (deserialize result)))
 
-(provide true-for-all? struct->file file->struct)
+(define (file->contract file)
+  (with-handlers ([exn:fail? (lambda (exn) '())])
+    (read (open-input-file file))))
+
+(provide true-for-all? struct->file file->struct file->contract)
