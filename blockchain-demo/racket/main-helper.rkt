@@ -2,6 +2,7 @@
 
 (require "blockchain.rkt")
 (require "utils.rkt")
+(require "p2p.rkt")
 
 (define (format-transaction t)
   (format "...~a... sends ...~a... an amount of ~a."
@@ -29,6 +30,7 @@
 
 (provide (all-from-out "blockchain.rkt")
          (all-from-out "utils.rkt")
+         (all-from-out "p2p.rkt")
          format-transaction
          print-block
          print-blockchain
