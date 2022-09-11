@@ -114,3 +114,8 @@
 
 ### Web Tools
 * IBM Bluemix Blockchain https://console.ng.bluemix.net/catalog/services/blockchain
+
+## Some Awesome-blockchain Collections
+* A collection in Chinese https://github.com/chaozh/awesome-blockchain-cn
+* A collection to learn blockchain https://github.com/yjjnls/awesome-blockchain
+* Build your own blockchain, especially in ruby https://github.com/openblockchains/awesome-blockchains

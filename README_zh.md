@@ -112,3 +112,8 @@
 
 ### 网站资源
 * IBM Bluemix Blockchain 托管服务，免费部署 4 节点 fabric 区块链网络，功能比上者更强，提供 APIs 调用 https://console.ng.bluemix.net/catalog/services/blockchain
+
+## Awesome-blockchain 仓库收集
+* 一个中文的 blockchain 集合 https://github.com/chaozh/awesome-blockchain-cn
+* 一个主打逐步学习 blockchain 的集合 https://github.com/yjjnls/awesome-blockchain
+* 重点介绍构建自己的 blockchain 的集合，尤其是使用 ruby 构建 https://github.com/openblockchains/awesome-blockchains
