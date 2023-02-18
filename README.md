@@ -6,8 +6,8 @@
 
 ### EBook
 * Blockchain Guide https://github.com/yeasy/blockchain_guide
-* Mastering Bitcoin 2th version CN https://github.com/tianmingyun/MasterBitcoin2CN or https://www.8btc.com/book/281955
-* Mastering Bitcoin 2th version EN https://github.com/bitcoinbook/bitcoinbook
+* Mastering Bitcoin 2th Edition CN https://github.com/tianmingyun/MasterBitcoin2CN or https://www.8btc.com/book/281955
+* Mastering Bitcoin 2th Edition EN https://github.com/bitcoinbook/bitcoinbook
 * Mastering Etherem CN https://github.com/inoutcode/ethereum_book
 * Blochain Books https://www.8btc.com/book
 
